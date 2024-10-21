@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122921292359",
+    "project_id": "cloudfirestoreex-fecd4",
+    "storage_bucket": "cloudfirestoreex-fecd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122921292359:android:27ff1e475b7c9d7def9762",
+        "android_client_info": {
+          "package_name": "com.shazlycode.cloudfirestoreex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkLVKrvMNQNgzmypjNxFGLjbg2pOhxdgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
